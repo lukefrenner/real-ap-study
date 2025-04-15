@@ -64,7 +64,7 @@ const APWorld = () => {
 
                     <br /> <br />
                     <ul>
-                    <li><a href="https://www.albert.io/blog/ap-calculus-bc-score-calculator/" target="_blank">AP World History Score Calculator</a></li> <br />
+                    <li><a href="https://www.albert.io/blog/ap-world-history-score-calculator/" target="_blank">AP World History Score Calculator</a></li> <br />
                     </ul>
                 </p>
             </div>
