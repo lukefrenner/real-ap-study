@@ -21,13 +21,13 @@ const Home = () => {
             <div class="side_2">
                 <h2>AP Subjects Included</h2>
                 <ul>
-                <a href="APLang"><li>AP English Language and Composition</li></a>
-                <a href="APLit"><li>AP Literature and Composition</li></a>
-                <a href="APPhysics1"><li>AP Physics 1</li></a>
-                <a href="APChem"><li>AP Chemistry</li></a>
-                <a href="APCalc"><li>AP Calculus BC</li></a>
-                <a href="APComp"><li>AP Computer Science A</li></a>
-                <a href="APWorld"><li>AP World History A</li></a>
+                <a href="/APLang"><li>AP English Language and Composition</li></a>
+                <a href="/APLit"><li>AP Literature and Composition</li></a>
+                <a href="/APPhysics1"><li>AP Physics 1</li></a>
+                <a href="/APChem"><li>AP Chemistry</li></a>
+                <a href="/APCalc"><li>AP Calculus BC</li></a>
+                <a href="/APComp"><li>AP Computer Science A</li></a>
+                <a href="/APWorld"><li>AP World History A</li></a>
                 </ul>
             </div>
         </div>
