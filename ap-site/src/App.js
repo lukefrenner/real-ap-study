@@ -14,7 +14,6 @@ import APComp from './components/Subjects/APComp'
 function App() {
   return (
     <>
-    ReactDOM.render((
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<Layout />}>
